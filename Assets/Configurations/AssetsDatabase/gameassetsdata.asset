@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dc312aa8dadb344c90592197ed04e35, type: 3}
+  m_Name: gameassetsdata
+  m_EditorClassIdentifier: 
+  assetInfos:
+  - assetId: AvailableAssetLabels
+    assetLoadType: 2
+    location: 
+    asset: {fileID: 11400000, guid: d3b08b12a3d857142ac9e8e07c493151, type: 2}
+    assetLabels:
+    - Config
+    - Unique
+    type: AssetsNamespace.AssetLabels
+  - assetId: Cube
+    assetLoadType: 2
+    location: 
+    asset: {fileID: 1409221933347668, guid: 6a1d034d323c54c459f3c9df85b17257, type: 2}
+    assetLabels:
+    - SomeStuff
+    type: 
+  - assetId: Sphere
+    assetLoadType: 2
+    location: 
+    asset: {fileID: 1342580026530776, guid: e2764bf47e4e95847afb6b65633162ef, type: 2}
+    assetLabels:
+    - SomeStuff
+    type: 
+  - assetId: SwordSound
+    assetLoadType: 2
+    location: 
+    asset: {fileID: 8300000, guid: ecb69c9e8f0a9974ba6c8dfff454b410, type: 3}
+    assetLabels:
+    - AudioClip
+    type: 
+  - assetId: ArrowSound
+    assetLoadType: 1
+    location: ArrowSound
+    asset: {fileID: 8300000, guid: d098652ba617bdb4986bffe4f6936214, type: 3}
+    assetLabels:
+    - AudioClip
+    type: 
+  - assetId: Capsule
+    assetLoadType: 1
+    location: Capsule
+    asset: {fileID: 1767485766165476, guid: 09a03d6c387e55d4293bac6ba5b11fae, type: 2}
+    assetLabels:
+    - SomeStuff
+    type: 
+  - assetId: Cylinder
+    assetLoadType: 1
+    location: Cylinder
+    asset: {fileID: 1825393858256734, guid: 51822d6655fbf7d40b0d2e533c2a4476, type: 2}
+    assetLabels:
+    - SomeStuff
+    type: 
